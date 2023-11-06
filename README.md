@@ -55,19 +55,6 @@ Moreover, you can use [developed unit test class](https://github.com/ahmetozlu/s
 
 - **Ganache** installation guide can be found in [here](https://www.trufflesuite.com/ganache).
 
-## Citation
-If you use this code for your publications, please cite it as:
-
-    @ONLINE{vdtct,
-        author = "Ahmet Özlü",
-        title  = "Smart Contract Hello World",
-        year   = "2021",
-        url    = "https://github.com/ahmetozlu/smart_contract_helloworld"
-    }
-
-## Author
-Ahmet Özlü
-
 ## License
 This system is available under the MIT license. See the LICENSE file for more info.
 
