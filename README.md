@@ -70,3 +70,8 @@ Ahmet Özlü
 
 ## License
 This system is available under the MIT license. See the LICENSE file for more info.
+
+<!-- Donation
+E: 0x65c468e8769E6BfC5ABe49f03CD34b681c3aE8e5
+T: TExok55Boi8igaRPhYR7pwEdbfaLRmrMiu
+-->
