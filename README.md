@@ -59,6 +59,6 @@ Moreover, you can use [developed unit test class](https://github.com/ahmetozlu/s
 This system is available under the MIT license. See the LICENSE file for more info.
 
 <!-- Donation
-E: 0xc9827d58C905CBA31a7D8e2377DE792eBbc385aF
-T: TXZ86f7JP7kKCW175HybSyJGsgcMMoAnSk
+E: 0x66f5d42921c6c741c28d62b163cc2f6172d2de8e (BEP20)
+T: TXZ86f7JP7kKCW175HybSyJGsgcMMoAnSk (TRC20)
 -->
